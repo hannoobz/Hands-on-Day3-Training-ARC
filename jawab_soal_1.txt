@@ -1,0 +1,6 @@
+M. Hanief Fatkhan Nashrullah
+13522100
+
+Axios merupakan library HTTP Client berbasis promise untuk node.js dan browser.
+Karena Axios berbasis promise, Axios dapat memanfaatkan async dan await dari JavaScript. 
+Axios juga dapat mengintercept dan membatalkan request
